@@ -173,3 +173,7 @@ body { font-family: 'Poppins', sans-serif; background: #fff0f5; color: #333; }
 
 </body>
 </html>
+
+
+<img width="1911" height="820" alt="Image" src="https://github.com/user-attachments/assets/eb70407c-3f59-4108-8872-cc69ca399115" />
+<img width="1889" height="614" alt="Image" src="https://github.com/user-attachments/assets/9f0658cf-af5e-4b3d-a185-b7d2a2497245" />
